@@ -1,0 +1,13 @@
+---
+layout: post
+title: Test post
+subtitle: Test subtitle
+gh-repo: carlos-hernani
+gh-badge: [follow] #star, fork, 
+tags: [test]
+comments: true
+---
+
+![image](/assets/img/path.jpg){: style="float: left"}
+
+Some text.
