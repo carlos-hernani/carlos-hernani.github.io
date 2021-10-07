@@ -20,7 +20,7 @@ navbar-links:
   Contact: "contact"
   Resources:
     - Learn Python: "https://www.python.org/about/gettingstarted/"
-  Author's home: "https://carlos-hernani.github.io/"
+  #Author's home: "https://carlos-hernani.github.io/"
 
 # --- Logo --- #
 

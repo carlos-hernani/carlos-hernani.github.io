@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Java sucks!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Carlos Hernani Morales. I am currently working at the Intelligent Data Analysis Laboratory (__IDAL__) at the Universitat de València (__UV__), Spain.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am insterested in Machine Learning applied to Sciences and also Science applied to Machine Learning.
 
-What else do you need?
+I am a graduate of Universitat de València in Physics and I did my Master's Degree in Data Science @ ETSE-UV.
 
-### My story
+I have done trainings at [SomData](https://www.linkedin.com/company/somdata/) doing NLP and [IQM Germany](https://www.meetiqm.com/) doing coding for Quantum Computing Research.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Check my [LinkedIn](https://www.linkedin.com/in/carlos-hernani-morales-623b5a189/) for more information about me.
+
+Contact me at: __hernani@uv.es__
+
+
