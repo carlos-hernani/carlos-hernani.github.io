@@ -17,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Codes: "https://github.com/carlos-hernani"
   Research: "research"
-  Contact: "contact"
+  #Contact: "contact"
   Resources:
     - Learn Python: "https://www.python.org/about/gettingstarted/"
   #Author's home: "https://carlos-hernani.github.io/"
