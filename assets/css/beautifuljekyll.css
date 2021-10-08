@@ -21,6 +21,13 @@ body {
   background-attachment: fixed;
   {% endif %}
 }
+
+/*floating left image*/
+.img-left {
+  float: left;
+  margin-right: 1em;
+}
+
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
